@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "[Unity 9기] Text RPG (스파르타 던전) 과제/1.0.0": {
+        "runtime": {
+          "[Unity 9기] Text RPG (스파르타 던전) 과제.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "[Unity 9기] Text RPG (스파르타 던전) 과제/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

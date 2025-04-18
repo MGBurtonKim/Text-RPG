@@ -1,0 +1,14 @@
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\bin\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.exe
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\bin\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.deps.json
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\bin\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.runtimeconfig.json
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\bin\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.dll
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\bin\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.pdb
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.AssemblyInfoInputs.cache
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.AssemblyInfo.cs
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.csproj.CoreCompileInputs.cache
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.dll
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\refint\[Unity 9기] Text RPG (스파르타 던전) 과제.dll
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.pdb
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\[Unity 9기] Text RPG (스파르타 던전) 과제.genruntimeconfig.cache
+C:\Users\jkim7\source\repos\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\[Unity 9기] Text RPG (스파르타 던전) 과제\obj\Debug\net8.0\ref\[Unity 9기] Text RPG (스파르타 던전) 과제.dll
